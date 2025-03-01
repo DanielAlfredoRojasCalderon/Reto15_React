@@ -4,7 +4,7 @@ import Headers from './Principal/Headers'
 
 const App = () => {
   return (
-    <div className='w-6/10 bg-white h-full justify-self-center pt-2 mt-4'>
+    <div className='w-6/10 bg-white h-full justify-self-center pt-2 mt-4 mb-4 rounded-md'>
       <Headers />
       <Principal />
 
